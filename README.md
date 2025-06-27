@@ -31,15 +31,7 @@ pip install numpy
 
 ---
 
-## 🎬 Demo Video
 
-
-<video width="700" controls autoplay loop>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
 
 ## 📸 How It Works (Concept)
 
